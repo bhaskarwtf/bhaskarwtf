@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Human were born to CREATE nOt CONSUME!!!</h3>
+<h3 align="center">Я хочу стать хакером номер один в мире</h3>
 
 ###
 
