@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Я хочу стать хакером номер один в мире</h3>
+<h3 align="center">I want to become the number one hacker in the world</h3>
 
 ###
 
